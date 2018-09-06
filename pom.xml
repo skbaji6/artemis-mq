@@ -10,5 +10,10 @@
          <artifactId>artemis-jms-client-all</artifactId>
          <version>2.6.2</version>
       </dependency>
+      <dependency>
+			  <groupId>org.apache.activemq</groupId>
+			  <artifactId>activemq-jms-pool</artifactId>
+			  <version>5.15.5</version>
+		  </dependency>
    </dependencies>
 </project>
